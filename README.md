@@ -54,4 +54,4 @@ the License.
 [Data binding with ViewModel and LiveData  ](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding)
 
 
-[LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-andro
+[LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android)
